@@ -34,7 +34,7 @@ export function App() {
         </div>
 
         <div className="Container__title">
-          <h1>🚀 - JSNinja <span>Journey</span> - 🚀</h1>
+          <h1>🚀 - Alves<span>codin</span> - 🚀</h1>
         </div>
 
         <div className="Container__text">
@@ -43,10 +43,11 @@ export function App() {
 
         <div className="Container__links">
           <ButtonLink label="Portifolio" to="https://www.jsninjajourney.com.br/" />
+          <ButtonLink label="LinkedIn" to="https://www.linkedin.com/in/l%C3%AAvy-alves-968477224/" />
         </div>
 
         <div className="Container__footer">
-          <p>{get("developmentText")}: <a href="https://www.instagram.com/levy_alves01/">Lêvy P. Alves</a></p>
+          <p>{get("developmentText")}: <a href="https://www.instagram.com/alvescodin/">Lêvy P. Alves</a></p>
         </div>
       </div>
 

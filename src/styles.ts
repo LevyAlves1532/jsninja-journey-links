@@ -95,6 +95,10 @@ export const WrapperApp = styled.div`
 
     &__links {
       margin-bottom: 5rem;
+
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
     }
 
     &__footer {

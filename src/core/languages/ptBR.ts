@@ -3,7 +3,7 @@ import { LanguageDataType } from "../../types/LanguageDataType";
 
 export const ptBR: LanguageDataType = {
   altLogo: "Logomarca",
-  text: "👊 Juntos com você, 🌐 Explorando a jornada ninja do JavaScript! Desvendando os segredos do código e dominando a arte do desenvolvimento web. Compartilhando dicas, truques e desafios para elevar suas habilidades. <span>Vamos embarcar nessa jornada juntos! 💻🚀</span> <span>#JSNinjaJourney #CodeLikeANinja</span>",
+  text: "👊 Juntos com você, 🌐 Desenvolvendo aplicações incríveis, dominando a arte do desenvolvimento web & mobile. Compartilhando dicas, nossos desafios e futuros projetos. <span>Vamos embarcar nessa jornada juntos! 💻🚀</span> <span>#developer #development #frontend #backend</span>",
   developmentText: "Desenvolvido por",
   languagesTitle: "Idiomas",
   languages: [
