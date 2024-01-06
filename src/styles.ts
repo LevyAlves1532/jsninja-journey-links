@@ -2,7 +2,7 @@
 import styled from "styled-components";
 
 export const WrapperApp = styled.div`
-  width: 100vw;
+  width: 100%;
   min-height: 100vh;
   background-color: ${props => props.theme.bg};
   padding: 2.5rem 0;
